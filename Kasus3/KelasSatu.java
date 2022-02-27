@@ -11,7 +11,7 @@ package Kasus3;
  */
 
 public class KelasSatu {
-     static {
+    {
         System.out.println(11); // angka ini akan ditampilkan terus setiap KelasSatu dipanggil
     }
     
